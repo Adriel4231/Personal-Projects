@@ -15,4 +15,4 @@ This repository contains my personal coding projects.
 ## How to Use  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/personal-projects.git
+   git clone https://github.com/Adriel4231/personal-projects.git

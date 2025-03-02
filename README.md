@@ -1,18 +1,22 @@
-
 ---
 
-### **Personal Projects** (`README.md`)  
-```md
-# Personal Projects  
+### **Personal Projects** (`README.md`)
 
-This repository contains my personal coding projects.  
+````md
+# Personal Projects
 
-## Projects  
-- Project 1: [Project Name]  
-- Project 2: [Project Name]  
-- Project 3: [Project Name]  
+This repository contains my personal coding projects.
 
-## How to Use  
-1. Clone this repository:  
+## Projects
+
+- Project 1: [push test]
+- Project 2: [Project Name]
+- Project 3: [Project Name]
+
+## How to Use
+
+1. Clone this repository:
    ```sh
-   git clone https://github.com/Adriel4231/personal-projects.git
+   git clone https://github.com/Adriel4231/Personal-projects.git
+   ```
+````
